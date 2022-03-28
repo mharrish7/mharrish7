@@ -3,9 +3,7 @@
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Harrish-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harrish-m-88249b230
-)](www.linkedin.com/in/harrish-m-88249b230
-) [![Gmail Badge](https://img.shields.io/badge/-harrishkumar100@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asterp04@gmail.com)](mailto:asterp04@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-Harrish-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/harrish-m-88249b230)](www.linkedin.com/in/harrish-m-88249b230) [![Gmail Badge](https://img.shields.io/badge/-harrishkumar100@gmail.com-c14438?style=flat square&logo=Gmail&logoColor=white&link=mailto:asterp04@gmail.com)](mailto:asterp04@gmail.com) 
 
 Welcome to my humble Digital World..
 
