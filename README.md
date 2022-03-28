@@ -20,7 +20,7 @@ Welcome to my humble Digital World..
  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flask.png' width='30'/> 
  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> 
  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
- 
+ <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
  
  ## Who am I?
  ```python
@@ -44,8 +44,9 @@ Welcome to my humble Digital World..
  ```
  
 ## Currently learning
- 	1.tensorflow and integrating it with kivy and flask.
- 	2.learning DS and algos.
+ 	1.learning DS and algos.
+	2.computer vision
+	3.tensorflow
  
 ## Other Stuff
   Love to collaborate with python projects
