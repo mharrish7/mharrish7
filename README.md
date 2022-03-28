@@ -48,7 +48,7 @@ Welcome to my humble Digital World..
  	2.learning DS and algos.
  
 ## Other Stuff
-  Yet to fill
+  Love to collaborate with python projects
 
  
  -------
