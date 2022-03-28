@@ -43,8 +43,7 @@ Welcome to my humble Digital World..
 	
  ```
  
-## Current Works
- Currently learning 
+## Currently learning
  	1.tensorflow and integrating it with kivy and flask.
  	2.learning DS and algos.
  
