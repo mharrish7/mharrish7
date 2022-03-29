@@ -30,12 +30,12 @@ Welcome to my humble Digital World..
 	hobbies = [
 				'Drawing',
 				'Watching Anime',
-				'Manga lover',
+				'OPM',
      
 			]
 	
 	def getCity():
-		return Nagerocoil
+		return Nagercoil
 	
 	def Ambitions():
 		LearnTensorflow2.x()
