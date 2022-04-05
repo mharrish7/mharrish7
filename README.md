@@ -47,6 +47,7 @@ Welcome to my humble Digital World..
  	1.learning DS and algos.
 	2.computer vision
 	3.tensorflow
+	4.javascript
  
 ## Other Stuff
   Love to collaborate with python projects
