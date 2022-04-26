@@ -53,7 +53,4 @@ Welcome to my humble Digital World..
   Love to collaborate with python projects
 
  
- -------
-Credits: [MarikIshtar007](https://github.com/MarikIshtar007)
 
-Last Edited on: 18/12/2020
