@@ -1,8 +1,6 @@
 
 ### Hey,Harrish here!
 
-Welcome to my humble Digital World..
-
 <a href = "https://www.linkedin.com/in/harrish-m-88249b230/">LinkedIn</a>
 
 ## :computer: Technologies I Love
