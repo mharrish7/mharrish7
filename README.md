@@ -6,7 +6,6 @@
 ## :computer: Technologies I Love
 * Kivy
 * Machine Learning
-* Data Science
 * Frontend and Backend Web Development
 
 
